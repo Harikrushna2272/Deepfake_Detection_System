@@ -13,7 +13,7 @@ A Python-based system for detecting deepfake videos by comparing them with origi
 
 ```bash
 # Clone the repository
-git clone https://github.com/Harikrushna2272/deepfake-detection.git
+git clone https://github.com/Harikrushna2272/Deepfake_Detection_System.git
 cd deepfake-detection
 
 # Create virtual environment
